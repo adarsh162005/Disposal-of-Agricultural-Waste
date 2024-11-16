@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Systems Thinking in Design Thinking</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            background-color: #f4f4f4;
+            padding: 20px;
+        }
+        h2 {
+            color: #333;
+        }
+        ul {
+            list-style-type: decimal;
+            padding-left: 20px;
+        }
+        blockquote {
+            background: #e0e0e0;
+            padding: 10px;
+            border-left: 5px solid #0073e6;
+        }
+        img {
+            max-width: 100%;
+            height: auto;
+            margin: 10px 0;
+        }
+        hr {
+            border: 0;
+            border-top: 2px solid #ddd;
+            margin: 20px 0;
+        }
+        strong {
+            color: #000000;
+        }
+    </style>
+</head>
+<body>
+
+    <h2>Systems Thinking in Design Thinking for Social Innovation</h2>
+    <p><strong>Systems Thinking in Design Thinking for Social Innovation</strong> refers to the approach of considering the broader context when tackling complex social challenges.</p>
+
+    <ul>
+        <li>Interconnectedness</li>
+        <li>Feedback Loops</li>
+        <li>Non Linear Dynamics</li>
+        <li>Holistic Understanding</li>
+        <li>System Mapping</li>
+        <li>Long Term Perspective</li>
+    </ul>
+
+    <hr>
+
+    <blockquote>
+        Causal Loop Diagrams (CLDs) are a visual representation tool used in systems thinking to illustrate the relationships and feedback loops between 
+        different variables in a complex system. They help to understand how different elements interact and influence each other, revealing the 
+        underlying structure of the system and how it drives behavior over time.
+    </blockquote>
+
+    <img src="https://github.com/user-attachments/assets/2f2f248f-3d57-4b94-bf26-0c98f880e9a6" alt="Causal Loop Diagram">
+
+    <hr>
+
+    <h3>01. Describe your analysis of the relationship between these variables.</h3>
+    <p><strong>Ans:</strong> The relationships between these variables are depicted with arrows indicating causality and polarities (+ or -) indicating the nature of the relationship:</p>
+    <ul>
+        <li><strong>Positive Relationships (+):</strong> An increase in one variable leads to an increase in the connected variable. For example, increased public awareness and education (+) leads to increased community engagement.</li>
+        <li><strong>Negative Relationships (-):</strong> An increase in one variable leads to a decrease in the connected variable. For example, improved regulatory policies (-) lead to reduced environmental impacts.</li>
+    </ul>
+    <p>The diagram also includes feedback loops:</p>
+    <ul>
+        <li><strong>Reinforcing Loops (R1, R2, R3):</strong> Positive feedback loops that amplify changes.</li>
+        <li><strong>Balancing Loops (B1, B2, B3):</strong> Negative feedback loops that stabilize the system.</li>
+    </ul>
+
+    <hr>
+
+    <h3>02. Describe the implications of the placed causal loops.</h3>
+    <p><strong>Ans:</strong> The causal loops suggest how different variables interact dynamically within the system:</p>
+    <ul>
+        <li><strong>R1 (Environmental Impacts and Climate Change):</strong> Highlights a potential vicious cycle where worsening environmental impacts exacerbate climate change.</li>
+        <li><strong>R2 (Technological Adoption and Innovation):</strong> Indicates a reinforcing cycle where technological innovation drives higher adoption rates.</li>
+        <li><strong>R3 (Economic Factors and Agricultural Production):</strong> Shows a cycle where economic factors affect market prices, influencing agricultural production.</li>
+        <li><strong>B1 (Public Awareness and Regulatory Policies):</strong> A balancing loop showing that increased awareness leads to stronger regulatory policies, mitigating negative impacts.</li>
+        <li><strong>B2 (Land Use Practices and Ecosystem Health):</strong> Demonstrates how improved land use practices enhance ecosystem health.</li>
+        <li><strong>B3 (Seasonal Variability and Agricultural Production):</strong> Illustrates the impact of seasonal variability on agricultural production.</li>
+    </ul>
+
+    <hr>
+
+    <h3>03. Describe what did you learn from this activity.</h3>
+    <p><strong>Ans:</strong> From this activity, we learn:</p>
+    <ul>
+        <li>The interconnectedness of various factors affecting agricultural waste disposal.</li>
+        <li>How feedback loops play critical roles in the system's behavior.</li>
+        <li>The importance of regulatory policies, public awareness, and technological innovation in managing waste.</li>
+        <li>The link between economic factors and environmental impacts.</li>
+    </ul>
+
+    <hr>
+
+    <h3>04. Did you face any challenges while doing this activity?</h3>
+    <p><strong>Ans:</strong> Challenges faced during this activity may include:</p>
+    <ul>
+        <li>Understanding and interpreting the complex interrelationships between variables.</li>
+        <li>Identifying the correct polarity (positive or negative) of relationships.</li>
+        <li>Recognizing and distinguishing between reinforcing and balancing feedback loops.</li>
+    </ul>
+
+    <hr>
+
+    <h3>05. How is this activity helpful for your course project?</h3>
+    <p><strong>Ans:</strong> This activity is helpful for the course project in several ways:</p>
+    <ul>
+        <li><strong>Systems Thinking:</strong> Enhances understanding of interactions in a complex system.</li>
+        <li><strong>Policy Implications:</strong> Highlights the importance of policies and public engagement in managing impacts.</li>
+        <li><strong>Technological Insight:</strong> Emphasizes the role of innovation in solving waste problems.</li>
+        <li><strong>Holistic View:</strong> Provides a comprehensive view of economic, environmental, and social factors.</li>
+    </ul>
+
+</body>
+</html>
