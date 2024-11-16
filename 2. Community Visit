@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Stakeholder Interaction</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            padding: 20px;
+        }
+        h1, h2 {
+            color: #333;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-bottom: 20px;
+        }
+        th, td {
+            padding: 10px;
+            text-align: left;
+            border: 1px solid #ccc;
+        }
+        th {
+            background-color: #0073e6;
+            color: #fff;
+        }
+        tr:nth-child(even) {
+            background-color: #f9f9f9;
+        }
+        hr {
+            border: 0;
+            border-top: 2px solid #ddd;
+            margin: 20px 0;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Stakeholder Interaction</h1>
+
+    <h2>2.1 Primary Stakeholder</h2>
+    <table>
+        <tr>
+            <th>DESIGNER</th>
+            <th>USER</th>
+        </tr>
+        <tr>
+            <td>1. What crops or livestock do you currently produce?</td>
+            <td>Chillies, Cabbages, Tomatoes, and Coriander</td>
+        </tr>
+        <tr>
+            <td>2. Can you describe your farming practices, including any sustainable or organic methods you employ?</td>
+            <td>Currently use inorganic methods like synthetic chemicals, such as fertilizers and pesticides to increase crop production.</td>
+        </tr>
+        <tr>
+            <td>3. What are the main challenges you face in your day-to-day operations?</td>
+            <td>Inflation of fertilizers, lack of agricultural technology awareness, and insufficient irrigation facilities.</td>
+        </tr>
+        <tr>
+            <td>4. How do you manage factors like weather variability that can impact your yields?</td>
+            <td>Soil and water management, high-yield variety seeds, and effective drainage facilities.</td>
+        </tr>
+        <tr>
+            <td>5. What technologies or innovations have you implemented on your farm?</td>
+            <td>Tractors and Drip Irrigation System.</td>
+        </tr>
+        <tr>
+            <td>6. What markets do you sell your products to, and how do you ensure a consistent supply and quality?</td>
+            <td>Sell to several markets, ensuring quality by checking materials before selling.</td>
+        </tr>
+        <tr>
+            <td>7. How do you handle issues related to labour, such as finding and retaining skilled workers?</td>
+            <td>Labour management is challenging due to government schemes making workers less motivated.</td>
+        </tr>
+        <tr>
+            <td>8. How do you stay informed about changes in regulations, market trends, and new technologies?</td>
+            <td>Through news, markets, and fellow farmers.</td>
+        </tr>
+        <tr>
+            <td>9. What government policies or initiatives have impacted your farming operations?</td>
+            <td>The Pradhan Mantri Kisan Samman Nidhi (PM-KISAN) scheme.</td>
+        </tr>
+        <tr>
+            <td>10. What challenges do you face in managing pests and diseases?</td>
+            <td>Human health risks and environmental impacts.</td>
+        </tr>
+    </table>
+
+    <hr>
+
+    <h2>2.2 Secondary Stakeholder</h2>
+    <table>
+        <tr>
+            <th>DESIGNER</th>
+            <th>USER</th>
+        </tr>
+        <tr>
+            <td>1. How long have you been in the business of selling vegetables/fruits?</td>
+            <td>2-3 decades.</td>
+        </tr>
+        <tr>
+            <td>2. What types of vegetables/fruits do you typically sell, and where do you source them from?</td>
+            <td>Vegetables: Tomato, Potato, Coriander<br>Fruits: Watermelon, Pomegranate, Apples</td>
+        </tr>
+        <tr>
+            <td>3. What factors influence your pricing decisions?</td>
+            <td>Based on market prices, news, and profit margins.</td>
+        </tr>
+        <tr>
+            <td>4. What improvements would benefit your business?</td>
+            <td>Proper stalls, non-plastic bags, and better transportation of goods.</td>
+        </tr>
+        <tr>
+            <td>5. Have you implemented any sustainability practices in your business?</td>
+            <td>Reducing water usage, minimizing waste, and using biodegradable packaging.</td>
+        </tr>
+        <tr>
+            <td>6. How do weather conditions or market trends impact your business?</td>
+            <td>Extreme weather often leads to produce spoilage.</td>
+        </tr>
+        <tr>
+            <td>7. How do you prefer to receive updates about market trends?</td>
+            <td>Through news and fellow vendors.</td>
+        </tr>
+        <tr>
+            <td>8. How do you collaborate with other stakeholders like farmers or wholesalers?</td>
+            <td>Purchase goods from farmers and sell them to consumers for profit.</td>
+        </tr>
+        <tr>
+            <td>9. How do you manage waste or spoilage of produce?</td>
+            <td>Wastes are typically discarded as they are hard to manage.</td>
+        </tr>
+    </table>
+
+    <hr>
+
+    <h2>2.3 Tertiary Stakeholder</h2>
+    <table>
+        <tr>
+            <th>DESIGNER</th>
+            <th>USER</th>
+        </tr>
+        <tr>
+            <td>1. What are your main goals or objectives for this project?</td>
+            <td>Promoting public welfare, transparency, and innovation, while addressing societal needs.</td>
+        </tr>
+        <tr>
+            <td>2. What are your expectations for communication and collaboration?</td>
+            <td>Clear communication with regular meetings, updates, and consultations.</td>
+        </tr>
+        <tr>
+            <td>3. What challenges do you anticipate?</td>
+            <td>Complex regulations, conflicting stakeholder interests, and resource constraints.</td>
+        </tr>
+        <tr>
+            <td>4. How do you prefer to receive project updates?</td>
+            <td>Through progress reports, meetings, and periodic evaluations.</td>
+        </tr>
+    </table>
+
+</body>
+</html>
