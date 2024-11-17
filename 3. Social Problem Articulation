@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Empathy Map and Point of View Statement</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+        h3 {
+            color: #333;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-bottom: 20px;
+        }
+        th, td {
+            border: 1px solid #ccc;
+            padding: 10px;
+            text-align: left;
+        }
+        th {
+            background-color: #f0f0f0;
+        }
+    </style>
+</head>
+<body>
+
+<h3>3.1 EMPATHY MAP</h3>
+<p>The empathy map for the disposal of agricultural waste reflects a range of emotions, thoughts, pain points, and gain points experienced by stakeholders involved in the process.</p>
+
+<!-- Empathy Map Table -->
+<table>
+    <tr>
+        <th>DO</th>
+        <th>SAY</th>
+        <th>THINK</th>
+        <th>FEEL</th>
+    </tr>
+    <tr>
+        <td>"We feed cattles"</td>
+        <td>"We experience loss"</td>
+        <td>"People need to purchase"</td>
+        <td>"Hope"</td>
+    </tr>
+    <tr>
+        <td>"We cut and dump in farm land"</td>
+        <td>"We don't want to burn, it creates smoke"</td>
+        <td>"Funds need to be allocated"</td>
+        <td>"Helpless"</td>
+    </tr>
+    <tr>
+        <td>"Burning of Agricultural Waste"</td>
+        <td>"Change in weather affects crops"</td>
+        <td>"Government should give awareness"</td>
+        <td>"Frustrated"</td>
+    </tr>
+    <tr>
+        <td>"Landfilling Agricultural Waste"</td>
+        <td>"Artificial fertilizer reduces soil natural ability"</td>
+        <td>"Municipalities need awareness"</td>
+        <td>"Isolated"</td>
+    </tr>
+    <tr>
+        <td>"Random piling"</td>
+        <td></td>
+        <td></td>
+        <td>"Gratitude"</td>
+    </tr>
+</table>
+
+<!-- Pain Points and Gain Points Table -->
+<table>
+    <tr>
+        <th>PAIN POINTS</th>
+        <th>GAIN POINTS</th>
+    </tr>
+    <tr>
+        <td>Less revenue</td>
+        <td>Improved revenue</td>
+    </tr>
+    <tr>
+        <td>Spending lots of Urea</td>
+        <td>Organic farming</td>
+    </tr>
+    <tr>
+        <td>Labor incentives</td>
+        <td>Reduce labor</td>
+    </tr>
+    <tr>
+        <td>Time consumption</td>
+        <td>Saving of time</td>
+    </tr>
+    <tr>
+        <td>Market price fluctuation impacting income</td>
+        <td>Environment</td>
+    </tr>
+    <tr>
+        <td>Rising input costs for seeds</td>
+        <td>Adoption of modern farming techniques</td>
+    </tr>
+</table>
+
+<!-- Point of View Statement -->
+<h3>3.2 POINT OF VIEW STATEMENT</h3>
+<p>
+    Farmers of Yellur, Belagavi need proper guidance to dispose of agricultural waste. However, due to a lack of knowledge, poor financial conditions, unavailability of land, and inadequate government support, they struggle to grow as successful farmers despite their interest in disposing of and reusing agricultural waste.
+</p>
+
+</body>
+</html>
