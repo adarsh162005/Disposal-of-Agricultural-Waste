@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Idea Generation, Filtering, and Evaluation</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+        h2, h3 {
+            color: #333;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-bottom: 20px;
+        }
+        th, td {
+            border: 1px solid #ccc;
+            padding: 10px;
+            text-align: center;
+        }
+        th {
+            background-color: #f0f0f0;
+        }
+        .main-header {
+            background-color: #d0e0f0;
+            font-weight: bold;
+        }
+        .criteria {
+            text-align: left;
+        }
+        .total-row {
+            background-color: #e0f7e0;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+
+<!-- Idea Generation Section -->
+<h2>4.1 IDEA GENERATION</h2>
+<h3>BRAINSTORMING</h3>
+
+<!-- Brainstorming Table -->
+<table>
+    <tr>
+        <th>BIODEGRADABLE POTS</th>
+        <th>BIOCHAR PRODUCTION</th>
+        <th>ANAEROBIC DIGESTION</th>
+        <th>BIOREMEDIATION</th>
+        <th>COMPOSTING</th>
+    </tr>
+    <tr>
+        <th>VERMI<br>COMPOSTING</th>
+        <th>ORGANIC MANURE</th>
+        <th>COMMUNITY PROGRAM</th>
+        <th>INTEGRATED PEST MANAGEMENT</th>
+        <th>BIOMASS ENERGY CONVERSION</th>
+    </tr>
+    <tr>
+        <th>REGENERATIVE AGRICULTURE PRACTICES</th>
+        <th>PAPER PRODUCTION [WHEAT STRAW]</th>
+        <th>CONSTRUCTION MATERIAL FOR ECO-FRIENDLY BUILDING</th>
+        <th>LANDFILLING WITH METHANE CAPTURE</th>
+        <th>INDUSTRIAL USE</th>
+    </tr>
+    <tr>
+        <th>INCINERATION WITH ENERGY RECOVERY</th>
+        <th>RECYCLING AND REPURPOSING</th>
+        <th>ANIMAL FEED</th>
+        <th>AGRICULTURE FEED</th>
+        <th>REGULATED DISPOSAL</th>
+    </tr>
+    <tr>
+        <th>SILAGE PRODUCTION</th>
+        <th>INCORPORATION INTO SOIL</th>
+        <th>MULCHING</th>
+        <th>MUSHROOM CULTIVATION</th>
+        <th>AQUACULTURE FEED</th>
+    </tr>
+</table>
+
+<!-- Idea Filtering Section -->
+<h2>4.2 IDEA FILTERING</h2>
+<h3>IMPACT V/S FEASIBILITY</h3>
+![Screenshot 2024-06-24 183823](https://github.com/user-attachments/assets/6767eca8-c8e5-4b3c-a47f-e5f14a9299fa)
+
+<!-- Idea Evaluation Section -->
+<h2>4.3 IDEA EVALUATION</h2>
+<h3>FACTOR V/S SUITABILITY</h3>
+
+<!-- Evaluation Table -->
+<table>
+    <thead>
+        <tr>
+            <th colspan="12" class="main-header">Idea Selection: Factors versus Suitability</th>
+        </tr>
+        <tr>
+            <th rowspan="2" class="criteria">Criteria</th>
+            <th rowspan="2" class="criteria">Ranking (1 to 5)</th>
+            <th colspan="2">Composting</th>
+            <th colspan="2">Organic Manure</th>
+            <th colspan="2">Animal Feed</th>
+            <th colspan="2">Incorporation into Soil</th>
+            <th colspan="2">Vermicomposting</th>
+        </tr>
+        <tr>
+            <th>Score B</th><th>C=A*B</th>
+            <th>Score D</th><th>C=A*D</th>
+            <th>Score E</th><th>C=A*E</th>
+            <th>Score F</th><th>C=A*F</th>
+            <th>Score G</th><th>C=A*G</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Effectiveness</td><td><b>4</b></td>
+            <td><b>5</b></td><td><b>20</b></td>
+            <td><b>4</b></td><td><b>16</b></td>
+            <td><b>3</b></td><td><b>12</b></td>
+            <td><b>4</b></td><td><b>16</b></td>
+            <td><b>5</b></td><td><b>20</b></td>
+        </tr>
+        <tr>
+            <td>Decomposition Rate</td><td><b>5</b></td>
+            <td><b>3</b></td><td><b>15</b></td>
+            <td><b>4</b></td><td><b>20</b></td>
+            <td><b>2</b></td><td><b>10</b></td>
+            <td><b>2</b></td><td><b>10</b></td>
+            <td><b>4</b></td><td><b>20</b></td>
+        </tr>
+        <tr>
+            <td>Nutrient Rate</td><td><b>3</b></td>
+            <td><b>3</b></td><td><b>9</b></td>
+            <td><b>5</b></td><td><b>15</b></td>
+            <td><b>4</b></td><td><b>12</b></td>
+            <td><b>3</b></td><td><b>9</b></td>
+            <td><b>4</b></td><td><b>12</b></td>
+        </tr>
+        <tr>
+            <td>Environmental Impact</td><td><b>4</b></td>
+            <td><b>4</b></td><td><b>16</b></td>
+            <td><b>4</b></td><td><b>16</b></td>
+            <td><b>4</b></td><td><b>16</b></td>
+            <td><b>4</b></td><td><b>16</b></td>
+            <td><b>5</b></td><td><b>20</b></td>
+        </tr>
+        <tr>
+            <td>Cost Effectiveness</td><td><b>4</b></td>
+            <td><b>2</b></td><td><b>8</b></td>
+            <td><b>3</b></td><td><b>12</b></td>
+            <td><b>3</b></td><td><b>12</b></td>
+            <td><b>4</b></td><td><b>16</b></td>
+            <td><b>4</b></td><td><b>16</b></td>
+        </tr>
+    </tbody>
+    <tfoot>
+        <tr class="total-row">
+            <th colspan="2">TOTAL</th>
+            <th>X</th><th><b>68</b></th>
+            <th>X</th><th><b>79</b></th>
+            <th>X</th><th><b>58</b></th>
+            <th>X</th><th><b>71</b></th>
+            <th>X</th><th><b>88</b></th>
+        </tr>
+    </tfoot>
+</table>
+
+<!-- Selected Idea -->
+<h2>Selected IDEA: VERMICOMPOSTING</h2>
+
+</body>
+</html>
