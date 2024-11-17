@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Vermicomposting Project Details</title>
+</head>
+<body>
+
+<!-- SPECIFICATIONS SECTION -->
+<h2 style="text-align: center;">Vermicomposting Specifications</h2>
+<table border="1" style="width: 100%; text-align: left;">
+    <tr>
+        <th>Parameters</th>
+        <th>Specifications</th>
+    </tr>
+    <tr>
+        <td>01. Monitoring</td>
+        <td>Regularly monitor the vermicomposting process by observing the activity of the worms, checking the temperature.</td>
+    </tr>
+    <tr>
+        <td>02. Odour Control</td>
+        <td>Properly managed vermicomposting bins should not emit foul odours.</td>
+    </tr>
+    <tr>
+        <td>03. Predator Prevention</td>
+        <td>Protect the vermicomposting bins from potential predators such as rodents, ants.</td>
+    </tr>
+    <tr>
+        <td>04. Composting Depth</td>
+        <td>Distribute organic waste evenly throughout the bin rather than piling it.</td>
+    </tr>
+    <tr>
+        <td>05. Ventilation</td>
+        <td>Adequate ventilation is crucial to prevent the build-up of harmful gases.</td>
+    </tr>
+    <tr>
+        <td>06. Temperature</td>
+        <td>Ideal temperature range is from 55℉ to 77℉ (13℃ to 25℃).</td>
+    </tr>
+    <tr>
+        <td>07. Moisture</td>
+        <td>Maintain moisture levels between 60% and 80%.</td>
+    </tr>
+    <tr>
+        <td>08. pH Level</td>
+        <td>Aim for a neutral to slightly alkaline pH of 6.0-8.0.</td>
+    </tr>
+    <tr>
+        <td>09. Worm Population</td>
+        <td>Maintain an appropriate population of composting worms such as red worms.</td>
+    </tr>
+    <tr>
+        <td>10. Food Scraps</td>
+        <td>Offer a variety of fruit and vegetable scraps.</td>
+    </tr>
+</table>
+
+<hr>
+
+<!-- ACTION PLAN SECTION -->
+<h2 style="text-align: center;">Action Plan</h2>
+<table border="1" style="width: 100%; text-align: left;">
+    <tr>
+        <th>Sl. No.</th>
+        <th>What & How</th>
+        <th>Who</th>
+        <th>When</th>
+        <th>Feedback</th>
+        <th>Corrective Steps</th>
+    </tr>
+    <tr>
+        <td>1.</td>
+        <td>Make the remaining charts</td>
+        <td>Suhani, Shreya, and Harshita</td>
+        <td>20/05/24</td>
+        <td>-</td>
+        <td>-</td>
+    </tr>
+    <tr>
+        <td>2.</td>
+        <td>Spread awareness about Vermicomposting to 20 Farmers</td>
+        <td>Team</td>
+        <td>15/05/24</td>
+        <td>-</td>
+        <td>-</td>
+    </tr>
+    <tr>
+        <td>3.</td>
+        <td>Buy a Transparent box and Tray</td>
+        <td>Adarsh, and Sairaj</td>
+        <td>20/05/24</td>
+        <td>-</td>
+        <td>-</td>
+    </tr>
+    <tr>
+        <td>4.</td>
+        <td>Collect vegetable waste, fruit waste, and wheat straw</td>
+        <td>Adarsh, and Sairaj</td>
+        <td>20/05/24</td>
+        <td>-</td>
+        <td>-</td>
+    </tr>
+    <tr>
+        <td>5.</td>
+        <td>Prepare Prototype</td>
+        <td>Team</td>
+        <td>Exhibition</td>
+        <td>-</td>
+        <td>-</td>
+    </tr>
+</table>
+
+<hr>
+
+<!-- PROTOTYPE SECTION -->
+<h2 style="text-align: center;">Prototype</h2>
+<p style="text-align: center;">
+    <img src="https://github.com/user-attachments/assets/97858d12-faa4-4ce8-84a9-eedaf300ff42" alt="Prototype Image 1" style="width: 45%; margin: 10px;">
+    <img src="https://github.com/user-attachments/assets/3a4a8f1a-d265-401f-beef-9db55cdb6833" alt="Prototype Image 2" style="width: 45%; margin: 10px;">
+</p>
+
+</body>
+</html>
