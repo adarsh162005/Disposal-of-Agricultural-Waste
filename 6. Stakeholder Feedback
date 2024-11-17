@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>User Feedback on Prototype</title>
+</head>
+<body>
+
+<!-- USER FEEDBACK SECTION -->
+<h2 style="text-align: center;">User Feedback on Prototype Developed</h2>
+
+<table border="1" style="width: 100%; text-align: left;">
+    <tr>
+        <th colspan="2" style="text-align: center;">User Feedback Details</th>
+    </tr>
+    <tr>
+        <th>Sample Size of the User</th>
+        <td>Farmers</td>
+    </tr>
+    <tr>
+        <th>Location</th>
+        <td>Yellur village, Belagavi-590006</td>
+    </tr>
+    <tr>
+        <th>Date of Visit</th>
+        <td>15/05/2024</td>
+    </tr>
+    <tr>
+        <th>Mode of Collecting Feedback</th>
+        <td>Community Visit</td>
+    </tr>
+    <tr>
+        <th>Significant Feedback Points for Your Prototype</th>
+        <td>
+            <ol>
+                <li>The Soil Moisture Sensor has been successfully incorporated into the system.</li>
+                <li>Continuous monitoring of soil moisture levels.</li>
+                <li>LCD Display has been added, allowing for easy monitoring of the system's status.</li>
+                <li>Water Pump functionality has been completed.</li>
+                <li>Enables the prototype to automatically activate the pump when the soil moisture falls below the desired level.</li>
+            </ol>
+        </td>
+    </tr>
+    <tr>
+        <th>Your Learnings for Further Improvement of Your Prototype</th>
+        <td style="text-align: justify;">
+    <p>The prototype's successful incorporation of the soil moisture sensor and water pump functionality provides a solid foundation, but there are several areas for further improvement. Ensuring the sensor's accuracy and reliability through calibration routines will be crucial, while enhancing the display to clearly communicate moisture levels and other data points can improve user understanding and interaction. Optimizing the water pump control algorithms, and considering energy-efficient alternatives, are also recommended.</p>
+</td>
+
+    </tr>
+</table>
+
+</body>
+</html>
